@@ -394,6 +394,7 @@ input#ListView1_DeleteButton_0 {
 }
 span#ListView1_full_nameLabel_0 {
     font-weight: bold;
+    font-style: italic;
 }
 
 
