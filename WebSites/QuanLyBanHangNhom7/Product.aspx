@@ -197,7 +197,7 @@
                                 <EditItemTemplate>
                                     <tr style="" class="table table-responsive">
                                         <td>
-                                            <asp:Button ID="UpdateButton" runat="server" CommandName="Update" Text="Update" CssClass="btn btn-success" />
+                                            <asp:Button ID="UpdateButton" runat="server" CommandName="Update" Text="Update" CssClass="btn btn-danger" />
                                             <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Cancel" CssClass="btn btn-warning" />
                                         </td>
                                         <td>
