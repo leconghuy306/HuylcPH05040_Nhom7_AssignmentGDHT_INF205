@@ -386,3 +386,9 @@ th {
     background: rgba(0, 0, 0, 0.5);
 }
 
+input#ListView1_InsertButton {
+    background: red;
+}
+input#ListView1_UpdateButton_0 {
+    background: yellow;
+}
