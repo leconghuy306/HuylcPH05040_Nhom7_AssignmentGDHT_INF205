@@ -17,7 +17,7 @@
                 <div class="col-md-12">
                     <div class="top-bar">
                         <div class="topbarlink-a">
-                            <a href="">Good</a>
+                            <a href="">Edit Test</a>
                             <a href="">Order stastus</a>
                             <a href="">My account</a>
                             <a href="">Sign in</a>
