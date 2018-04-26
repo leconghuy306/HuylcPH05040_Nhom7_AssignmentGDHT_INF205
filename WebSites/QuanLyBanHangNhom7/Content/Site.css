@@ -389,3 +389,6 @@ th {
 input#ListView1_EditButton_0 {
     background: yellow;
 }
+input#ListView1_DeleteButton_0 {
+    background: green;
+}
