@@ -392,3 +392,8 @@ input#ListView1_EditButton_0 {
 input#ListView1_DeleteButton_0 {
     background: green;
 }
+span#ListView1_full_nameLabel_0 {
+    font-weight: bold;
+}
+
+
