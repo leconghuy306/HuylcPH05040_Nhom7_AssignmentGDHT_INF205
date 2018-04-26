@@ -386,13 +386,6 @@ th {
     background: rgba(0, 0, 0, 0.5);
 }
 
-<<<<<<< HEAD
-input#ListView1_InsertButton {
-    background: red;
-}
-input#ListView1_UpdateButton_0 {
-=======
 input#ListView1_EditButton_0 {
->>>>>>> d53f05000364702ab1717b728cffd7b6068b896e
     background: yellow;
 }
