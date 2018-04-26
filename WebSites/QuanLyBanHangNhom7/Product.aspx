@@ -18,7 +18,7 @@
                     <div class="top-bar">
                         <div class="topbarlink-a">
 <<<<<<< HEAD
-                            <a href="">Good</a>
+                            <a href="">Edit</a>
                             <a href="">Order by huymin</a>
 =======
                             <a href="">Edit Test</a>
