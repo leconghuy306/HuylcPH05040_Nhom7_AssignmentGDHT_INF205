@@ -17,8 +17,13 @@
                 <div class="col-md-12">
                     <div class="top-bar">
                         <div class="topbarlink-a">
+<<<<<<< HEAD
                             <a href="">Good</a>
                             <a href="">Order by huymin</a>
+=======
+                            <a href="">Edit Test</a>
+                            <a href="">Order stastus</a>
+>>>>>>> 67359fbaebd03c4d095222fcbac8788c40fd09d3
                             <a href="">My account</a>
                             <a href="">Sign in</a>
                         </div>
