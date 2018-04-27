@@ -19,8 +19,13 @@
                         <div class="topbarlink-a">
                             <a href="">Help</a>
                             <a href="">Order stastus</a>
+<<<<<<< HEAD
                             <a href="">My 5</a>
                             <a href="">thang1</a>
+=======
+                            <a href="">My account</a>
+                            <a href="">thang2</a>
+>>>>>>> 03b30fd81939ab68d986047316b72bf4d6a5cf23
                         </div>
                     </div>
                 </div>
