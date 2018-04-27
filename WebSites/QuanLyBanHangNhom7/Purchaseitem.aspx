@@ -256,7 +256,7 @@
                                                 <table id="itemPlaceholderContainer" runat="server" border="1" style="width: 980px" class="table table-responsive">
                                                     <tr runat="server" style="">
                                                         <th class="buttomrow" runat="server"></th>
-                                                        <th runat="server">purchase_item_id</th>
+                                                        <th style="color:red;" runat="server">purchase_item_id</th>
                                                         <th runat="server">purchase_id</th>
                                                         <th runat="server">product_id</th>
                                                         <th runat="server">amount</th>
