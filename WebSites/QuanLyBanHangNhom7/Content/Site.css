@@ -403,6 +403,6 @@ input#ListView1_DeleteButton_0 {
     background: green;
 }
 
-th {
-    color: green;
+table#ListView1_itemPlaceholderContainer {
+    color: red;
 }
