@@ -403,13 +403,13 @@ input#ListView1_DeleteButton_0 {
     background: green;
 }
 .thang {
-    color:black
+    color:red;
 }
 
-<<<<<<< HEAD
+
 table#ListView1_itemPlaceholderContainer {
     color: red;
-=======
+}
 .idclient {
     color:pink;
 }

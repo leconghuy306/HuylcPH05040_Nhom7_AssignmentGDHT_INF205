@@ -172,7 +172,7 @@
                                            
                                         </td>
                                         <td>
-                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' CssClass:"thang" />
+                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' />
                                         </td>
                                         <td>
                                             <asp:Label ID="purchase_noLabel" runat="server" Text='<%# Eval("purchase_no") %>' />
@@ -232,7 +232,7 @@
                                             
                                         </td>
                                         <td>
-                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' />
+                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' CssClass="thusua"/>
                                         </td>
                                         <td>
                                             <asp:Label ID="purchase_noLabel" runat="server" Text='<%# Eval("purchase_no") %>' />
