@@ -402,9 +402,13 @@ span#ListView1_full_nameLabel_0 {
 input#ListView1_DeleteButton_0 {
     background: green;
 }
+<<<<<<< HEAD
 .thang {
     color:red;
 }
+=======
+
+>>>>>>> bed2101c1471a9e930200e417864554eb7df9fa5
 
 
 table#ListView1_itemPlaceholderContainer {
@@ -416,4 +420,7 @@ table#ListView1_itemPlaceholderContainer {
 .thusua {
     color:yellow;
 >>>>>>> 6a434276315615479920b263ca1b47c27a0086a7
+}
+th {
+    color: pink;
 }
