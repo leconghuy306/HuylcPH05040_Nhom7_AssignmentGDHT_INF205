@@ -20,7 +20,7 @@
                             <a href="">Help</a>
                             <a href="">Order stastus</a>
                             <a href="">My account</a>
-                            <a href="">thang1</a>
+                            <a href="">thang2</a>
                         </div>
                     </div>
                 </div>
