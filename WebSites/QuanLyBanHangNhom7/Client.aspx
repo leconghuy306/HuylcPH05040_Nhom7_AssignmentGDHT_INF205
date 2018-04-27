@@ -225,10 +225,10 @@
                                             <asp:Button ID="DeleteButton" runat="server" CommandName="Delete" Text="Delete" CssClass="btn btn-danger"/>
                                         </td>
                                         <td>
-                                            <asp:Label ID="client_idLabel" runat="server" Text='<%# Eval("client_id") %>' CssClass="idclient" />
+                                            <asp:Label ID="client_idLabel" runat="server" Text='<%# Eval("client_id") %>'  />
                                         </td>
                                         <td>
-                                            <asp:Label ID="full_nameLabel" runat="server" Text='<%# Eval("full_name") %>' />
+                                            <asp:Label ID="full_nameLabel" runat="server" Text='<%# Eval("full_name") %>' CssClass="suaa" />
                                         </td>
                                         <td>
                                             <asp:Label ID="emailLabel" runat="server" Text='<%# Eval("email") %>' />
