@@ -392,10 +392,10 @@ input#ListView1_EditButton_0 {
 input#ListView1_DeleteButton_0 {
     background: green;
 }
-span#ListView1_full_nameLabel_0 {
+span#ListView1_full_nameLabel_1 {
     font-weight: bold;
     font-style: italic;
-    color:red;
+    color:green;
 }
 
 
@@ -417,3 +417,4 @@ table#ListView1_itemPlaceholderContainer {
     color:yellow;
 >>>>>>> 6a434276315615479920b263ca1b47c27a0086a7
 }
+
