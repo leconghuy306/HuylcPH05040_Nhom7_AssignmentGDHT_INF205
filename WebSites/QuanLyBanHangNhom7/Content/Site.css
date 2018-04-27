@@ -392,22 +392,28 @@ input#ListView1_EditButton_0 {
 input#ListView1_DeleteButton_0 {
     background: green;
 }
-span#ListView1_full_nameLabel_0 {
+span#ListView1_full_nameLabel_1 {
     font-weight: bold;
     font-style: italic;
-    color:red;
+    color:green;
 }
 
 
 input#ListView1_DeleteButton_0 {
     background: green;
 }
-
-
 <<<<<<< HEAD
+.thang {
+    color:red;
+}
+=======
+
+>>>>>>> bed2101c1471a9e930200e417864554eb7df9fa5
+
+
 table#ListView1_itemPlaceholderContainer {
     color: red;
-=======
+}
 .idclient {
     color:pink;
 }
@@ -415,9 +421,16 @@ table#ListView1_itemPlaceholderContainer {
     color:yellow;
 >>>>>>> 6a434276315615479920b263ca1b47c27a0086a7
 }
+<<<<<<< HEAD
+
+=======
 th {
     color: pink;
 }
+<<<<<<< HEAD
 td {
     color: blue;
 }
+=======
+>>>>>>> 3c5700aee0a487f3404816b74489026f1ea6e94f
+>>>>>>> dd0d83ce8a92982979471912028fd5970e594abf
