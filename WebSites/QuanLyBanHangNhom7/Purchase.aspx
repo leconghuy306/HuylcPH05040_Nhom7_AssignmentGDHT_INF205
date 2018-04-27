@@ -18,7 +18,7 @@
                     <div class="top-bar">
                         <div class="topbarlink-a">
                             <a href="">Help</a>
-                            <a href="">Order stastus</a>
+                            <a href="">THANOS</a>
 <<<<<<< HEAD
                             <a href="">My 5</a>
                             <a href="">thang1</a>
