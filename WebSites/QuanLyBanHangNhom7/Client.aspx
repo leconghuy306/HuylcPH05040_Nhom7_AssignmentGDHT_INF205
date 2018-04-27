@@ -225,7 +225,7 @@
                                             <asp:Button ID="DeleteButton" runat="server" CommandName="Delete" Text="Delete" CssClass="btn btn-danger"/>
                                         </td>
                                         <td>
-                                            <asp:Label ID="client_idLabel" runat="server" Text='<%# Eval("client_id") %>' />
+                                            <asp:Label ID="client_idLabel" runat="server" Text='<%# Eval("client_id") %>' CssClass="idclient" />
                                         </td>
                                         <td>
                                             <asp:Label ID="full_nameLabel" runat="server" Text='<%# Eval("full_name") %>' />
@@ -242,7 +242,7 @@
                                                 <table id="itemPlaceholderContainer" runat="server" border="1" style="width: 980px" class="table table-responsive">
                                                     <tr runat="server" style="">
                                                         <th class="buttomrow" runat="server"></th>
-                                                        <th runat="server">client_id</th>
+                                                        <th class="thusua" runat="server">client_id</th>
                                                         <th runat="server">full_name</th>
                                                         <th runat="server">email</th>
                                                     </tr>

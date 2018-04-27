@@ -406,3 +406,14 @@ input#ListView1_DeleteButton_0 {
     color:black
 }
 
+<<<<<<< HEAD
+table#ListView1_itemPlaceholderContainer {
+    color: red;
+=======
+.idclient {
+    color:pink;
+}
+.thusua {
+    color:yellow;
+>>>>>>> 6a434276315615479920b263ca1b47c27a0086a7
+}
