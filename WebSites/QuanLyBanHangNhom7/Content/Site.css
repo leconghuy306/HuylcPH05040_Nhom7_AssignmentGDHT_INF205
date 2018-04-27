@@ -401,3 +401,7 @@ span#ListView1_full_nameLabel_0 {
 td {
     color: red;
 }
+input#ListView1_DeleteButton_0 {
+    background: green;
+}
+
