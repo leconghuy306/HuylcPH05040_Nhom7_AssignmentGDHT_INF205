@@ -172,7 +172,11 @@
                                            
                                         </td>
                                         <td>
-                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' CssClass:"thang" />
+<<<<<<< HEAD
+                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' />
+=======
+                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>'  />
+>>>>>>> bed2101c1471a9e930200e417864554eb7df9fa5
                                         </td>
                                         <td>
                                             <asp:Label ID="purchase_noLabel" runat="server" Text='<%# Eval("purchase_no") %>' />
@@ -190,7 +194,7 @@
                                             <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Cancel" CssClass="btn btn-warning" />
                                         </td>
                                         <td>
-                                            <asp:Label ID="purchase_idLabel1" runat="server" Text='<%# Eval("purchase_id") %>' />
+                                            <asp:Label ID="purchase_idLabel1" runat="server" Text='<%# Eval("purchase_id") %>'  />
                                         </td>
                                         <td>
                                             <asp:TextBox ID="purchase_noTextBox" runat="server" Text='<%# Bind("purchase_no") %>' />
@@ -232,7 +236,7 @@
                                             
                                         </td>
                                         <td>
-                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' />
+                                            <asp:Label ID="purchase_idLabel" runat="server" Text='<%# Eval("purchase_id") %>' CssClass="thusua"/>
                                         </td>
                                         <td>
                                             <asp:Label ID="purchase_noLabel" runat="server" Text='<%# Eval("purchase_no") %>' />
@@ -249,7 +253,7 @@
                                                 <table id="itemPlaceholderContainer" runat="server" border="1" style="width:980px;" class="table table-responsive">
                                                     <tr runat="server" style="">
                                                         <th class="buttomrow" runat="server"></th>
-                                                        <th runat="server">purchase_id</th>
+                                                        <th runat="server">purchase_id  </th>
                                                         <th runat="server">purchase_no</th>
                                                         <th runat="server">client_id</th>
                                                     </tr>
